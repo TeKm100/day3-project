@@ -8,7 +8,7 @@ import Party from '../../assets/partying-face.png'
  
 const Navbar = () => {
     return <nav className='navbar'>
-        <h1>MovieMiniac </h1>
+        <h1>TeKmMovies </h1>
 
         <div className='navbar_links'>
             <DarkMode />
