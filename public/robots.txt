@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://movieminiac.netlify.app/sitemap.xml
